@@ -1,4 +1,4 @@
-# data-dialogue-pandas-agent
+# PandaBot
 
 Data Dialogue is an interactive web application that empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information.
 
