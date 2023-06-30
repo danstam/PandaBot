@@ -1,14 +1,14 @@
 # PandaBot
 
-Data Dialogue is an interactive web application that empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information.
+PandaBot is an interactive web application that empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information.
 
 ## Introduction
 
-Data Dialogue combines the power of Langchain and Pandas DataFrame to provide an innovative way of generating Python code based on the conversations you have with your data. By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt Data Dialogue to generate Python code snippets (LLM generated) that manipulate and analyze the uploaded CSV file.
+PandaBot combines the power of Langchain and Pandas DataFrame to provide an innovative way of generating Python code based on the conversations you have with your data. By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt PandaBot to generate Python code snippets (LLM generated) that manipulate and analyze the uploaded CSV file.
 
 ## Getting Started
 
-To use Data Dialogue, follow these steps:
+To use PandaBot, follow these steps:
 
 1. Install the required dependencies by running the following command:
 
