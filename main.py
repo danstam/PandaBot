@@ -8,8 +8,8 @@ import os
 load_dotenv()
 
 def main():
-    st.title("Data Dialogue 🐼📊")
-    st.subheader("Data Dialogue empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information")
+    st.title("PandaBot 🐼📊🤖")
+    st.subheader("PandaBot empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information")
 
     st.header("Prepare to Redefine Your Relationship with Data")
 
