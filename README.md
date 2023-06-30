@@ -16,10 +16,17 @@ To use Data Dialogue, follow these steps:
    pip install streamlit pandas langchain python-dotenv
 
 2. Create a new file named .env in the root directory of your project.
-3. Open the .env file and add the following line:
-OPENAI_API_KEY="YOUR OPENAI API KEY"
-4. Save the .env file.
-5. Open the terminal in the project directory and run: streamlit run main.py
-6. The application will start, and you can access it through your web browser.
+3. Open the .env file and add the following line, replacing YOUR OPENAI API KEY with your actual OpenAI API key:
+   
+   ```bash
+   OPENAI_API_KEY="YOUR OPENAI API KEY"
+5. Save the .env file.
+6. Open the terminal in the project directory and run:
+  ```bash
+   streamlit run main.py
+
+9. The application will start, and you can access it through your web browser.
+
+
 
 
