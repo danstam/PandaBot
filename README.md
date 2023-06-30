@@ -4,7 +4,7 @@ Data Dialogue is an interactive web application that empowers you to engage in d
 
 ## Introduction
 
-Data Dialogue combines the power of Langchain and Pandas DataFrame to provide an innovative way of generating Python code based on the conversations you have with your data. By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt Data Dialogue to generate Python code snippets that manipulate and analyze the uploaded CSV file.
+Data Dialogue combines the power of Langchain and Pandas DataFrame to provide an innovative way of generating Python code based on the conversations you have with your data. By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt Data Dialogue to generate Python code snippets (LLM generated) that manipulate and analyze the uploaded CSV file.
 
 ## Getting Started
 
