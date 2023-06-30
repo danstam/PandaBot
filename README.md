@@ -22,10 +22,11 @@ To use Data Dialogue, follow these steps:
    OPENAI_API_KEY="YOUR OPENAI API KEY"
 5. Save the .env file.
 6. Open the terminal in the project directory and run:
-  ```bash
+   
+   ```bash
    streamlit run main.py
 
-9. The application will start, and you can access it through your web browser.
+7. The application will start, and you can access it through your web browser.
 
 
 
