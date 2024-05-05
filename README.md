@@ -1,10 +1,6 @@
 # PandaBot
 
-PandaBot is an interactive web application that empowers you to engage in dynamic conversations with your data, unlocking its hidden secrets and revolutionizing the way you analyze and interpret information.
-
-## Introduction
-
-PandaBot combines the power of Langchain and Pandas DataFrame to provide an innovative way of generating Python code based on the conversations you have with your data. By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt PandaBot to generate Python code snippets (LLM generated) that manipulate and analyze the uploaded CSV file.
+By utilizing the Langchain Pandas DataFrame Agent, you can ask questions and prompt PandaBot to generate Python code snippets (LLM generated) that manipulate and analyze the uploaded CSV file.
 
 ## Getting Started
 
